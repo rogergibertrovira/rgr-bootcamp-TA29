@@ -23,6 +23,7 @@ https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/
 ## EX18
 
 ## EX19
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex19/
 
 ## EX20
 https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex20/

@@ -1,0 +1,10 @@
+table,
+th,
+td {
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid black;
+}
+
+th {
+  text-align: center;
+}

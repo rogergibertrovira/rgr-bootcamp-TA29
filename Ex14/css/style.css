@@ -1,0 +1,39 @@
+body {
+  background-image: url(../img/Penguins.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+table,
+th,
+td {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+table {
+  width: 800px;
+  border: 3px darkgray;
+  border-style: outset;
+  border-spacing: 0;
+  background-color: white;
+}
+
+th {
+  border: 3px lightgray;
+  border-style: inset;
+}
+
+td {
+  border: 3px lightgray;
+  border-style: inset;
+  background-color: #ffff97;
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

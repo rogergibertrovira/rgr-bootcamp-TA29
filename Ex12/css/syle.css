@@ -29,13 +29,13 @@ td {
 }
 
 .td1 {
-    border: 3px skyblue;
-    background-color: #ccffcc;
-    border-style: inset;
+  border: 3px skyblue;
+  background-color: #ccffcc;
+  border-style: inset;
 }
 
 .td2 {
-    border: 3px skyblue;
-    background-color: #99cc99;
-    border-style: inset; 
- }
+  border: 3px skyblue;
+  background-color: #99cc99;
+  border-style: inset;
+}

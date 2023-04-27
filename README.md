@@ -12,6 +12,7 @@ https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex12/instalaciones.html
 https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex13/
 
 ## EX14
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex14/
 
 ## EX15
 https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/

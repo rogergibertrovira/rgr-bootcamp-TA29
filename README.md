@@ -14,6 +14,7 @@ https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex13/
 ## EX14
 
 ## EX15
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/
 
 ## EX16
 

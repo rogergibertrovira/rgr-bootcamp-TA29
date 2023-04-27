@@ -25,3 +25,4 @@ https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/
 ## EX19
 
 ## EX20
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex20/

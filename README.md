@@ -9,6 +9,7 @@ https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde2.html
 https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex12/instalaciones.html
 
 ##EX13
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex13/
 
 ##EX14
 

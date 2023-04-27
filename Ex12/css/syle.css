@@ -12,16 +12,8 @@ table {
   border-spacing: 0;
 }
 
-tr:nth-child(odd) {
-  border: 3px skyblue;
-  background-color: #99cc99;
-  border-style: inset;
-}
-
-tr:nth-child(even) {
-  border: 3px skyblue;
-  background-color: #ccffcc;
-  border-style: inset;
+td:nth-child(even) {
+  text-align: center;
 }
 
 th {
@@ -35,3 +27,15 @@ td {
   border: 3px skyblue;
   border-style: inset;
 }
+
+.td1 {
+    border: 3px skyblue;
+    background-color: #ccffcc;
+    border-style: inset;
+}
+
+.td2 {
+    border: 3px skyblue;
+    background-color: #99cc99;
+    border-style: inset; 
+ }

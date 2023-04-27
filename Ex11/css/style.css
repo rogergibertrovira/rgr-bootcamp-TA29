@@ -1,0 +1,35 @@
+table, th, td{
+  column-width: 130px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+table {
+    border: 3px lightblue;
+    border-style: outset;
+    border-spacing: 0;
+}
+
+tr:nth-child(odd) {
+    border: 3px skyblue;
+  background-color: #99cc99;
+  border-style: inset; 
+}
+
+tr:nth-child(even) {
+    border: 3px skyblue;
+  background-color: #ccffcc;
+  border-style: inset; 
+}
+
+th {
+    border: 3px skyblue;
+  background-color: #003333;
+  color: #ccffcc;
+  border-style: inset;
+}
+
+td {
+    border: 3px skyblue;
+    border-style: inset;
+}

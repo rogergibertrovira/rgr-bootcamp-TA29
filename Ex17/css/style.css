@@ -1,16 +1,107 @@
 body {
-    background-image: url(../img/ac.jpg);
+  background-image: url(../img/ac.jpg);
 }
+
 div {
-    height: 20vh;
-    width: 20vh;
-    border: 1px solid black;
+  height: 20vh;
+  width: 20vh;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: white;
+}
+
+#column1 {
+  float: left;
+}
+
+#column2 {
+  float: left;
+}
+
+#column3 {
+  float: left;
+}
+
+#column4 {
+  float: left;
 }
 
 .div1 {
-    background-image: url(../img/back_mantel.jpg);
+  background-image: url(../img/back_mantel.jpg);
+  border: 2px solid white;
 }
 
 .div2 {
-    background-image: url(../img/dh.jpg);
+  background-image: url(../img/back_mantel.jpg);
+  background-origin: content-box;
+  background-position: 95% 50%;
+  border: 2px solid white;
+}
+
+.div3 {
+  background-image: url(../img/back_mantel.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border: 2px solid white;
+}
+
+.div4 {
+  background-image: url(../img/back_mantel.jpg);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center;
+  border: 2px solid white;
+}
+
+.div5 {
+  background-image: url(../img/dh.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border: 2px solid white;
+}
+
+.div6 {
+  background-image: url(../img/dh.jpg);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center;
+  border: 2px solid white;
+}
+
+.div7 {
+  background-image: url(../img/dh_2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  border: 2px solid white;
+}
+
+.div8 {
+  background-image: url(../img/dh_3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2px solid white;
+}
+
+.div9 {
+  background-image: linear-gradient(to right, #d0fb53, #536652);
+  border: 2px solid white;
+}
+
+.div10 {
+  background-image: linear-gradient(#e9b199, #792502);
+  border: 2px solid white;
+}
+
+.div11 {
+  background-image: linear-gradient(#ebebcd, #377430);
+  border: 2px solid white;
+}
+
+.div12 {
+  background-image: linear-gradient(#ffffff00, #094b0d);
+  border: 2px solid white;
 }

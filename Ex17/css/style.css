@@ -32,13 +32,16 @@ div {
 .div1 {
   background-image: url(../img/back_mantel.jpg);
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div2 {
   background-image: url(../img/back_mantel.jpg);
-  background-origin: content-box;
-  background-position: 95% 50%;
   border: 2px solid white;
+  background-clip: content-box;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div3 {
@@ -46,6 +49,8 @@ div {
   background-repeat: no-repeat;
   background-size: 100%;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div4 {
@@ -54,6 +59,8 @@ div {
   background-size: 80%;
   background-position: center;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div5 {
@@ -61,6 +68,8 @@ div {
   background-repeat: no-repeat;
   background-size: 100%;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div6 {
@@ -69,6 +78,8 @@ div {
   background-size: 80%;
   background-position: center;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div7 {
@@ -77,6 +88,8 @@ div {
   background-position: center;
   background-size: 100%;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div8 {
@@ -84,24 +97,34 @@ div {
   background-repeat: no-repeat;
   background-position: center;
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div9 {
   background-image: linear-gradient(to right, #d0fb53, #536652);
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div10 {
   background-image: linear-gradient(#e9b199, #792502);
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div11 {
   background-image: linear-gradient(#ebebcd, #377430);
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .div12 {
   background-image: linear-gradient(#ffffff00, #094b0d);
   border: 2px solid white;
+  padding: 20px;
+  box-sizing: border-box;
 }

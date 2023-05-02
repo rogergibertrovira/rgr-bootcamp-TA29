@@ -2,7 +2,9 @@
 Tablas &amp; Div
 
 ## EX11
-[https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html] <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html">Ex1</a>
+
+https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html <br>
 https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde2.html
 
 ## EX12

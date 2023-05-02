@@ -1,35 +1,23 @@
 # rgr-bootcamp-TA29
 Tablas &amp; Div
 
-## EX11
-<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html">Ex1</a>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html">Ejercicio 11 a</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde2.html">Ejercicio 11 b</a>
 
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde.html <br>
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex11/donde2.html
+<a href="">Ejercicio 12</a>
 
-## EX12
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex12/instalaciones.html
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex13/">Ejercicio 13</a>
 
-## EX13
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex13/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex14/">Ejercicio 14</a>
 
-## EX14
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex14/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/">Ejercicio 15</a>
 
-## EX15
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex15/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex16/">Ejercicio 16</a>
 
-## EX16
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex16/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex17/">Ejercicio 17</a>
 
-## EX17
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex17/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex18/">Ejercicio 18</a>
 
-## EX18
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex18/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex19/">Ejercicio 19</a>
 
-## EX19
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex19/
-
-## EX20
-https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex20/
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex20/">Ejercicio 20</a>
